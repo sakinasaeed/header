@@ -1,0 +1,29 @@
+.body{
+    background-color: black;
+}
+.main{
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    border: 1px solid gray;
+}
+img{
+    width: 20%;
+    padding: 5px 8px;
+}
+.header{
+    width: 50%;
+    align-items: center;
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a{
+    padding: 20px 10px ;
+    background-color: beige;
+    color: gray;
+    display: inline-block;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: white;
+}
